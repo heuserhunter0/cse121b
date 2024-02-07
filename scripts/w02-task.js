@@ -8,7 +8,7 @@ let fullName = 'Hunter Heuser';
 
 const currentYear = new Date().getFullYear();
 
-const profilePicture = '../images/profilePicture.png'; 
+const profilePicture = '/../images/profilePicture.png'; 
 
 
 /* Step 3 - Element Variables */
